@@ -24,15 +24,15 @@ app_links:
     type: web
 isBasedOnUrl: 'https://soundcloud.com/brennen-barrigar'
 title: Brennen Barrigar
-datePublished: '2015-11-16T01:47:21.746Z'
-dateModified: '2015-11-16T01:47:15.275Z'
+datePublished: '2015-11-16T01:48:52.533Z'
+dateModified: '2015-11-16T01:48:45.996Z'
 sourcePath: _posts/2015-11-15-brennen-barrigar.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 authors: []
 _type: AudioObject
 _context: 'http://schema.org'
