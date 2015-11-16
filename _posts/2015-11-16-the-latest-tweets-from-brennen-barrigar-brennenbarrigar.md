@@ -1,8 +1,7 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://twitter.com/brennenbarrigar'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - barrigar
   - 9hiiblop__
 description: The latest Tweets from Brennen Barrigar (@BrennenBarrigar). This will all make perfect sense someday
-datePublished: '2015-11-16T01:43:15.224Z'
-dateModified: '2015-11-16T01:43:03.304Z'
+datePublished: '2015-11-16T01:57:51.929Z'
+dateModified: '2015-11-16T01:57:40.970Z'
 author:
   - name: brennenbarrigar
     url: 'http://twitter.com/brennenbarrigar'
@@ -53,6 +52,7 @@ publisher:
   favicon: 'https://abs.twimg.com/favicons/favicon.ico'
 sourcePath: _posts/2015-11-16-the-latest-tweets-from-brennen-barrigar-brennenbarrigar.md
 published: true
+url: the-latest-tweets-from-brennen-barrigar-brennenbarrigar/index.html
 _type: Comment
 _context: 'http://schema.org'
 
