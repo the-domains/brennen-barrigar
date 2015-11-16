@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-16T02:02:40.078Z'
-dateModified: '2015-11-16T02:02:15.155Z'
+datePublished: '2015-11-16T02:08:43.574Z'
+dateModified: '2015-11-16T02:08:34.180Z'
 author: []
 related: []
 app_links:
@@ -33,4 +33,4 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![Brennen Barrigar &lpar;&commat;bpbarrigar&rpar; &midast; Instagram photos and videos](https://scontent.cdninstagram.com/hphotos-xta1/t51.2885-19/11351696_885463674861044_957299366_a.jpg)
+![Brennen Barrigar (@bpbarrigar) * Instagram photos and videos](https://scontent.cdninstagram.com/hphotos-xta1/t51.2885-19/11351696_885463674861044_957299366_a.jpg)
