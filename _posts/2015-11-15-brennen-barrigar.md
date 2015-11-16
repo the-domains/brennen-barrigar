@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'http://soundcloud.com'
   name: SoundCloud
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
   domain: soundcloud.com
+  url: 'http://soundcloud.com'
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
 keywords: []
 description: 'Listen to Brennen Barrigar | Explore the largest community of artists, bands, podcasters and creators of music & audio.. Jordan. 3 Tracks. 10 Followers. Stream Tracks and Playlists from Brennen Barrigar on your desktop or mobile device.'
 app_links:
@@ -24,13 +24,16 @@ app_links:
     type: web
 isBasedOnUrl: 'https://soundcloud.com/brennen-barrigar'
 title: Brennen Barrigar
-datePublished: '2015-11-15T22:44:12.330Z'
-dateModified: '2015-11-15T22:43:49.116Z'
+datePublished: '2015-11-16T01:47:21.746Z'
+dateModified: '2015-11-16T01:47:15.275Z'
 sourcePath: _posts/2015-11-15-brennen-barrigar.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+starred: true
+authors: []
 _type: AudioObject
 _context: 'http://schema.org'
 
